@@ -199,7 +199,6 @@
   #lost-circle {
     left: 870px;
   }
-  /* used shorthand css methods for repetitive elements */
   #user-rock-win, #user-paper-win, #user-scissor-win,
   #cpu-rock-win, #cpu-paper-win, #cpu-scissor-win,
   #user-rock-lost, #user-paper-lost, #user-scissor-lost,
